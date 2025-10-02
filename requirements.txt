@@ -1,0 +1,10 @@
+langchain
+openai
+langchain-core
+langchain-openai
+langchain-community
+dotenv
+langchain-google-genai
+# ipykernel is not needed for the project, but it is needed to run the code in Jupyter notebooks
+huggingface-hub
+langchain-huggingface
